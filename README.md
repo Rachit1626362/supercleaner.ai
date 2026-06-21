@@ -26,7 +26,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/ai-data-cleaning-agent.git
+git clone https://github.com/rachit1626362/ai-data-cleaning-agent.git
 cd ai-data-cleaning-agent
 
 Install dependencies:
